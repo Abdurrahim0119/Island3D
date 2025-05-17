@@ -158,9 +158,9 @@ export const projects = [
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'ABDRHM',
+        name: 'Island3D',
         description: 'CBuilt a modern and responsive personal portfolio website using React.js and Tailwind CSS to showcase my projects, skills, and learning journey as an aspiring developer.',
-        link: 'https://github.com/Abdurrahim0119',
+        link: 'https://github.com/https://github.com/Abdurrahim0119/Island3D',
     },
     
 ];
