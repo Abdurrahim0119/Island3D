@@ -33,7 +33,7 @@ export const skills = [
     name: "CSS",
     type: "Frontend",
   },
-  {
+  {                                     
     imageUrl: php,
     name: "PHP",
     type: "Backend",
