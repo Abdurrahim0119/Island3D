@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { meta, zynrah, starbucks, tesla } from "../assets/images";
 import {
     car,
     contact,
@@ -88,8 +88,8 @@ export const skills = [
 export const experiences = [
     {
         title: "Web Developer",
-        company_name: "Shopify",
-        icon: shopify,
+        company_name: "Zynrah",
+        icon: zynrah,
         iconBg: "#b7e4c7",
         date: "Jan 2023 - Jan 2025",
         points: [
@@ -160,7 +160,7 @@ export const projects = [
         theme: 'btn-back-green',
         name: 'Island3D',
         description: 'CBuilt a modern and responsive personal portfolio website using React.js and Tailwind CSS to showcase my projects, skills, and learning journey as an aspiring developer.',
-        link: 'https://github.com/Abdurrahim0119/Island3D/tree/main',
+        link: 'https://github.com/https://github.com/Abdurrahim0119/Island3D',
     },
     
 ];
