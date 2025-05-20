@@ -2,7 +2,15 @@
 
 ![Island3D Website](https://i.ibb.co/ryytGVx/Screenshot-2023-11-25-at-11-28-11-AM.png)
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+## 🔧 Installation & Usage (Local Setup)
+
+Ikuti langkah-langkah berikut untuk menjalankan project ini secara lokal:
+
+1. Clone repository ini:
+   ```bash
+   git clone https://github.com/Abdurrahim0119/Island3D.git
+    cd Island3D
+    npm install
+    npm run dev
+    http://localhost:5173
+
