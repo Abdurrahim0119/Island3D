@@ -1,6 +1,7 @@
 # Build and Deploy an Amazing Island3D Developer Portfolio in React with Three.js
 
-![Island3D Website](https://i.ibb.co/ryytGVx/Screenshot-2023-11-25-at-11-28-11-AM.png)
+![Island3D Website](https://ibb.co/PzcLphFG/Island3D.png)
+
 
 ## 🔧 Installation & Usage (Local Setup)
 
